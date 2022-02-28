@@ -28,14 +28,13 @@
 .h-200{
     height: 200px;
 }
-.col-4{
+.bg_4{
     background-color: rgba(58,84,109,255);
 }
 .col-2{
     background-color: rgba(255,255,255,255);
 }
-.col-12{
-    height: 50px;
+.bg_green{
     background-color: rgba(26,188,156,255);
 }
 .bg-1{

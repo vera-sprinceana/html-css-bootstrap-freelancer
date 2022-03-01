@@ -12,3 +12,11 @@
 .bg-8{
     background-color: rgba(44,62,80,255);
 }
+.fa-facebook,
+.fa-google-plus-g,
+.fa-twitter,
+.fa-linkedin-in{
+    border-radius: 50%;
+    border: 1px solid white;
+    padding: 5px 8px;
+}
